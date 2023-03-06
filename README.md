@@ -9,4 +9,4 @@
   + 5주차 ([2. 객체를 더 잘 탐지하는 모델들 2/2](https://github.com/Team-BoonMoSa/.github/blob/main/boostcourse/3%EC%A3%BC%EC%B0%A8_%EC%9A%B0%EC%95%84%EB%9D%BC.pdf)): 2023년 2월 13일 오후 7시 / ZOOM
   + 6주차 ([3. 모델 성능을 개선하는 방법들 1/2](https://github.com/Team-BoonMoSa/.github/blob/main/boostcourse/4%EC%A3%BC%EC%B0%A8_%EC%98%A4%ED%9A%A8%EA%B7%BC.pdf)): 2023년 2월 21일 오후 8시 30분 / 강남역
   + 7주차 ([3. 모델 성능을 개선하는 방법들 2/2](https://github.com/Team-BoonMoSa/.github/blob/main/boostcourse/5%EC%A3%BC%EC%B0%A8_%EC%86%A1%EC%98%88%EC%A7%84.pdf)): 2023년 2월 27일 오후 7시 / 약수역
-+ 8주차 (Paper Review: [Deep Learning Logo Detection with Data Expansion by Synthesising Context](https://arxiv.org/abs/1612.09322)): 2023년 3월 7일 오후 8시 30분 / 약수역
++ 8주차 (Paper Review: [Logo detection and brand recognition with one-stage logo detection framework and simplified resnet50 backbone](https://ieeexplore.ieee.org/document/9144794)): 2023년 3월 7일 오후 8시 30분 / 약수역
