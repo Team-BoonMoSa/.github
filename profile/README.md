@@ -1,11 +1,9 @@
 <h1 align='center'> 🥸 팀 분모자 🥸 </h1>
-<h2 align='center'> 분류 모자이크 </h2>
+<h3 align='center'> 분류 모자이크 </h3>
 
 ![Graphical Abstract](https://user-images.githubusercontent.com/42334717/214239743-3f7e92da-ca83-45cb-9efc-911e404ad555.png)
 
----
-
-<h1 align='center'> ✨ 기여자 (Contributors) ✨ </h1>
+<h3 align='center'> ✨ 기여자 (Contributors) ✨ </h3>
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -22,5 +20,6 @@
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+<h3 align='center'> <a href="https://github.com/Team-BoonMoSa/.github/blob/main/README.md">Schedule of Team BoonMoSa</a> </h3>
