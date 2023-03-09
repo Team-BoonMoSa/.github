@@ -1,5 +1,5 @@
 <h1 align='center'> 🥸 팀 분모자 🥸 </h1>
-<h2 align='center'> Schedule </h2>
+<h3 align='center'> Schedule </h3>
 
 <div align="center">
 
