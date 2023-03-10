@@ -22,4 +22,4 @@
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-<h3 align='center'> <a href="https://github.com/Team-BoonMoSa/.github/blob/main/README.md">Schedule of Team BoonMoSa</a> </h3>
+<h3 align='center'>:calendar: <a href="https://github.com/Team-BoonMoSa/.github/blob/main/README.md">Schedule of Team BoonMoSa</a> :calendar:</h3>
