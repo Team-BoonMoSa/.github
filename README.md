@@ -1,5 +1,5 @@
 <h1 align='center'> 🥸 팀 분모자 🥸 </h1>
-<h3 align='center'> Schedule </h3>
+<h3 align='center'>:calendar: Schedule :calendar:</h3>
 
 <div align="center">
 
