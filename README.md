@@ -30,3 +30,9 @@
 |23|2023년 7월 18일|TBD|:o: TBD|
 |</br>24</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</br>2023년 7월 29일</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</br>TBD</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<div align="center">:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:</br>:fire: **BOAZ 18th Conference** :fire:</br>:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:</div>|
 </div>
+
+<h3 align='center'>:seedling: Process :seedling:</h3>
+
+1. [Logo Detection을 위한 dataset 모색](https://github.com/Team-BoonMoSa/PANPP/issues/1)
+2. [Data Pre-processing](https://github.com/Team-BoonMoSa/PANPP/issues/2)
+3. [Dataset 구축 및 Training Code Follow Up](https://github.com/Team-BoonMoSa/PANPP/issues/3)
