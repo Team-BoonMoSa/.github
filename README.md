@@ -13,7 +13,7 @@
 |6|2023년 2월 21일</br>오후 8시 30분|강남역|:o: [Boostcourse](https://www.boostcourse.org/ai341/joinLectures/369549): [3. 모델 성능을 개선하는 방법들 (1/2)](https://github.com/Team-BoonMoSa/.github/blob/main/boostcourse/4%EC%A3%BC%EC%B0%A8_%EC%98%A4%ED%9A%A8%EA%B7%BC.pdf)|
 |7|2023년 2월 27일</br>오후 7시|약수역|:o: [Boostcourse](https://www.boostcourse.org/ai341/joinLectures/369549): [3. 모델 성능을 개선하는 방법들 (2/2)](https://github.com/Team-BoonMoSa/.github/blob/main/boostcourse/5%EC%A3%BC%EC%B0%A8_%EC%86%A1%EC%98%88%EC%A7%84.pdf)|
 |8|2023년 3월 7일</br>오후 8시 30분|약수역|:o: [Paper Review](https://ieeexplore.ieee.org/document/9144794)</br>:o: [MLflow 맛보기](https://kyumcoding.tistory.com/14#comment21978661)|
-|9|2023년 3월 14일</br>오후 7시 30분|약수역|:o: [Logo Detection을 위한 dataset 모색](https://github.com/Team-BoonMoSa/PANPP/issues/1)</br>:o: [Data Pre-processing](https://github.com/Team-BoonMoSa/PANPP/issues/2)</br>:o: [Detection 모델](https://github.com/Team-BoonMoSa/PANPP) test|
+|9|2023년 3월 14일</br>오후 7시 30분|약수역|:o: [Logo Detection을 위한 Dataset 모색](https://github.com/Team-BoonMoSa/PANPP/issues/1)</br>:o: [Data Pre-processing](https://github.com/Team-BoonMoSa/PANPP/issues/2)</br>:o: [Detection 모델](https://github.com/Team-BoonMoSa/PANPP) test|
 |10|2023년 3월 21일</br>오후 7시 30분|약수역|:o: [Dataset 구축 및 Training Code Follow Up](https://github.com/Team-BoonMoSa/PANPP/issues/3)|
 |11|2023년 3월 28일</br>오후 7시 30분|약수역|:o: TBD|
 |12|2023년 4월 4일</br>오후 7시 30분|약수역|:o: TBD|
@@ -33,6 +33,6 @@
 
 <h3 align='center'>:seedling: Process :seedling:</h3>
 
-1. [Logo Detection을 위한 dataset 모색](https://github.com/Team-BoonMoSa/PANPP/issues/1)
+1. [Logo Detection을 위한 Dataset 모색](https://github.com/Team-BoonMoSa/PANPP/issues/1)
 2. [Data Pre-processing](https://github.com/Team-BoonMoSa/PANPP/issues/2)
 3. [Dataset 구축 및 Training Code Follow Up](https://github.com/Team-BoonMoSa/PANPP/issues/3)
