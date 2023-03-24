@@ -1,7 +1,7 @@
 <h1 align='center'>🥸 팀 분모자 🥸</h1>
 <h3 align='center'>:camera_flash: 분류 모자이크 :camera_flash:</h3>
 
-![Graphical Abstract](https://user-images.githubusercontent.com/42334717/214239743-3f7e92da-ca83-45cb-9efc-911e404ad555.png)
+<img align='center' src='https://user-images.githubusercontent.com/42334717/227575043-5c65230c-f283-46b0-a46c-0569ee20cd56.gif'/>
 
 <h3 align='center'> ✨ 기여자 (Contributors) ✨ </h3>
 
