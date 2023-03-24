@@ -40,3 +40,4 @@
 5. [Definition of Product Flow](https://github.com/Team-BoonMoSa/.github/issues/2)
 6. [YOLOv5 Code Follow Up](https://github.com/Team-BoonMoSa/YOLOv5/issues/1)
 7. [Data Pre-processing](https://github.com/Team-BoonMoSa/YOLOv5/issues/2)
+8. [Model Optimal Structure Study](https://github.com/Team-BoonMoSa/YOLOv5/issues/4)
