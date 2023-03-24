@@ -39,3 +39,4 @@
 4. [Logo Detection Model 선정](https://github.com/Team-BoonMoSa/.github/issues/1)
 5. [Definition of Product Flow](https://github.com/Team-BoonMoSa/.github/issues/2)
 6. [YOLOv5 Code Follow Up](https://github.com/Team-BoonMoSa/YOLOv5/issues/1)
+7. [Data Pre-processing](https://github.com/Team-BoonMoSa/YOLOv5/issues/2)
