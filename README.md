@@ -16,7 +16,7 @@
 |9|2023년 3월 14일</br>오후 7시 30분|약수역|:o: [Logo Detection을 위한 Dataset 모색](https://github.com/Team-BoonMoSa/PANPP/issues/1)</br>:o: [Data Pre-processing](https://github.com/Team-BoonMoSa/PANPP/issues/2)</br>:o: [Detection 모델](https://github.com/Team-BoonMoSa/PANPP) test|
 |10|2023년 3월 21일</br>오후 7시 30분|약수역|:o: [Dataset 구축 및 Training Code Follow Up](https://github.com/Team-BoonMoSa/PANPP/issues/3)</br>:o: [Logo Detection Model 선정](https://github.com/Team-BoonMoSa/.github/issues/1)</br>:o: [Definition of Product Flow](https://github.com/Team-BoonMoSa/.github/issues/2)|
 |11|2023년 3월 28일</br>오후 7시 30분|약수역|:o: [YOLOv5 Code Follow Up](https://github.com/Team-BoonMoSa/YOLOv5/issues/1)</br>:o: [Model Optimal Structure Study](https://github.com/Team-BoonMoSa/YOLOv5/issues/4)</br>:o: [`labelme` to YOLOv5](https://github.com/Team-BoonMoSa/YOLOv5/issues/8)|
-|12|2023년 4월 4일</br>오후 7시 30분|약수역|:o: [Demo 영상을 위한 영상 촬영 및 Labeling 준비](https://github.com/Team-BoonMoSa/YOLOv5/issues/9)|
+|12|2023년 4월 4일</br>오후 7시 30분|을지로입구역|:o: [Demo 영상을 위한 영상 촬영 및 Labeling 준비](https://github.com/Team-BoonMoSa/YOLOv5/issues/9)</br>:o: Demo 영상 촬영|
 |13|2023년 4월 11일</br>오후 7시 30분|약수역|:o: TBD|
 |14|2023년 5월 4일</br>오후 8시|TBD|:o: 중간점검|
 |15|2023년 5월 9일</br>오후 7시 30분|약수역|:o: TBD|
