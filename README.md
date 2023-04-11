@@ -25,10 +25,7 @@
 |18|2023년 5월 30일</br>오후 7시 30분|약수역|:o: TBD|
 |19|2023년 6월 23일</br>오후 7시 30분|약수역|:o: TBD|
 |20|2023년 6월 29일</br>오후 8시|TBD|:o: 최종점검|
-|21|2023년 7월 4일|TBD|:o: TBD|
-|22|2023년 7월 11일|TBD|:o: TBD|
-|23|2023년 7월 18일|TBD|:o: TBD|
-|</br>24</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</br>2023년 7월 29일</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</br>TBD</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<div align="center">:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:</br>:fire: **BOAZ 18th Conference** :fire:</br>:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:</div>|
+|</br>:tada:</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</br>2023년 7월 29일</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</br>TBD</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<div align="center">:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:</br>:fire: **BOAZ 18th Conference** :fire:</br>:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:</div>|
 </div>
 
 <h3 align='center'>:seedling: Process :seedling:</h3>
