@@ -18,7 +18,7 @@
 |11|2023년 3월 28일</br>오후 7시 30분|약수역|:o: [YOLOv5 Code Follow Up](https://github.com/Team-BoonMoSa/YOLOv5/issues/1)</br>:o: [Model Optimal Structure Study](https://github.com/Team-BoonMoSa/YOLOv5/issues/4)</br>:o: [`labelme` to YOLOv5](https://github.com/Team-BoonMoSa/YOLOv5/issues/8)|
 |12|2023년 4월 4일</br>오후 7시 30분|을지로입구역|:o: [Demo 영상을 위한 영상 촬영 및 Labeling 준비](https://github.com/Team-BoonMoSa/YOLOv5/issues/9)</br>:o: Demo 영상 촬영|
 |13|2023년 4월 11일</br>오후 7시 30분|약수역|:o: [촬영된 Demo 영상 선택 및 병합](https://github.com/Team-BoonMoSa/YOLOv5/issues/10)</br>:o: [Demo 영상을 위한 labelme 기반 학습 데이터 구축](https://github.com/Team-BoonMoSa/YOLOv5/issues/11)</br>:o: [Demo 영상 제작](https://github.com/Team-BoonMoSa/YOLOv5/issues/12)|
-|14|2023년 5월 6일</br>오전 11시|TBD|:o: 중간점검|
+|14|2023년 5월 6일</br>오전 11시|연세대학교|:o: 중간점검|
 |15|2023년 5월 9일</br>오후 7시 30분|약수역|:o: [Conference 발표 자료 제작](https://github.com/Team-BoonMoSa/YOLOv5/issues/13)|
 |16|2023년 5월 16일</br>오후 7시 30분|약수역|:o: TBD|
 |17|2023년 5월 23일</br>오후 7시 30분|약수역|:o: TBD|
