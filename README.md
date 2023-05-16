@@ -20,7 +20,7 @@
 |13|2023년 4월 11일</br>오후 7시 30분|약수역|:o: [촬영된 Demo 영상 선택 및 병합](https://github.com/Team-BoonMoSa/YOLOv5/issues/10)</br>:o: [Demo 영상을 위한 labelme 기반 학습 데이터 구축](https://github.com/Team-BoonMoSa/YOLOv5/issues/11)</br>:o: [Demo 영상 제작](https://github.com/Team-BoonMoSa/YOLOv5/issues/12)|
 |14|2023년 5월 6일</br>오전 11시|연세대학교|:o: 중간점검|
 |15|2023년 5월 9일</br>오후 7시|약수역|:o: [Conference 발표 자료 제작](https://github.com/Team-BoonMoSa/YOLOv5/issues/13)|
-|16|2023년 5월 16일</br>오후 7시 30분|약수역|:o: [Conference 발표 자료 제작](https://github.com/Team-BoonMoSa/YOLOv5/issues/13)|
+|16|2023년 5월 16일</br>오후 7시|약수역|:o: [Conference 발표 자료 제작](https://github.com/Team-BoonMoSa/YOLOv5/issues/13)|
 |17|2023년 5월 23일</br>오후 7시 30분|약수역|:o: TBD|
 |18|2023년 5월 30일</br>오후 7시 30분|약수역|:o: TBD|
 |19|2023년 6월 23일</br>오후 7시 30분|약수역|:o: TBD|
