@@ -21,7 +21,7 @@
 |14|2023년 5월 6일</br>오전 11시|연세대학교|:o: 중간점검|
 |15|2023년 5월 9일</br>오후 7시|약수역|:o: [Conference 발표 자료 제작](https://github.com/Team-BoonMoSa/YOLOv5/issues/13)|
 |16|2023년 5월 16일</br>오후 7시|약수역|:o: [Conference 발표 자료 제작](https://github.com/Team-BoonMoSa/YOLOv5/issues/13)|
-|17|2023년 5월 23일</br>오후 7시|Google Meett|:o: [Conference 발표 자료 제작](https://github.com/Team-BoonMoSa/YOLOv5/issues/13)|
+|17|2023년 5월 23일</br>오후 7시|Google Meet|:o: [Conference 발표 자료 제작](https://github.com/Team-BoonMoSa/YOLOv5/issues/13)|
 |18|2023년 5월 30일</br>오후 7시 30분|약수역|:o: TBD|
 |19|2023년 6월 23일</br>오후 7시 30분|약수역|:o: TBD|
 |20|2023년 6월 29일</br>오후 8시|TBD|:o: 최종점검|
