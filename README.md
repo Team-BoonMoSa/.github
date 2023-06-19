@@ -21,9 +21,9 @@
 |14|2023년 5월 6일</br>오전 11시|연세대학교|:o: 중간점검|
 |15|2023년 5월 9일</br>오후 7시|약수역|:o: [Conference 발표 자료 제작](https://github.com/Team-BoonMoSa/YOLOv5/issues/13)|
 |16|2023년 5월 16일</br>오후 7시|약수역|:o: [Conference 발표 자료 제작](https://github.com/Team-BoonMoSa/YOLOv5/issues/13)|
-|17|2023년 5월 23일</br>오후 7시|Google Meet|:o: [Conference 발표 자료 제작](https://github.com/Team-BoonMoSa/YOLOv5/issues/13)|
-|18|2023년 5월 30일</br>오후 7시 30분|약수역|:o: TBD|
-|19|2023년 6월 23일</br>오후 7시 30분|약수역|:o: TBD|
+|17|2023년 5월 23일</br>오후 7시|Google Meet|:o: [Conference 발표 자료 제작](https://github.com/Team-BoonMoSa/YOLOv5/issues/13)</br>:o: 머신러닝 시스템 설계 chap 1, 2, 3|
+|18|2023년 5월 30일</br>오후 7시 30분|약수역|:o: 머신러닝 시스템 설계 chap 4, 5|
+|19|2023년 6월 6일</br>오후 7시 30분|Google Meet|:o: 머신러닝 시스템 설계 chap 6, 7|
 |20|2023년 6월 29일</br>오후 8시|TBD|:o: 최종점검|
 |</br>:tada:</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</br>2023년 7월 29일</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</br>TBD</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<div align="center">:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:</br>:fire: **BOAZ 18th Conference** :fire:</br>:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:</div>|
 </div>
