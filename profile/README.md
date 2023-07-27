@@ -1,6 +1,11 @@
 <h1 align='center'>🥸 팀 분모자 🥸</h1>
 <h3 align='center'>:camera_flash: 분류 모자이크 :camera_flash:</h3>
 
+<h4 align='center'>
+
+https://github.com/BOAZ-bigdata/18th_Conference_BoonMoSa/assets/42334717/dfd3b399-031a-46d8-aac4-b8da47535472
+</h4>
+
 <img align='center' src='https://user-images.githubusercontent.com/42334717/227575043-5c65230c-f283-46b0-a46c-0569ee20cd56.gif'/>
 
 <h3 align='center'> ✨ 기여자 (Contributors) ✨ </h3>
@@ -25,3 +30,5 @@
 <h3 align='center'>:calendar: <a href="https://github.com/Team-BoonMoSa/.github/blob/main/README.md#calendar-schedule-calendar">Schedule of Team BoonMoSa</a> :calendar:</h3>
 
 <h3 align='center'>:seedling: <a href="https://github.com/Team-BoonMoSa/.github/blob/main/README.md#seedling-process-seedling">Process of Team BoonMoSa</a> :seedling:</h3>
+
+<h3 align='center'>:elephant: <a href="https://github.com/BOAZ-bigdata/18th_Conference_BoonMoSa">18th_Conference_BoonMoSa</a> :elephant:</h3>
