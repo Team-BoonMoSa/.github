@@ -26,7 +26,7 @@
 |19|2023년 6월 6일</br>오후 7시 30분|Google Meet|:o: 머신러닝 시스템 설계 chap 6, 7|
 |20|2023년 6월 27일</br>오후 6시|약수역|:o: [Conference 발표 자료 제작](https://github.com/Team-BoonMoSa/YOLOv5/issues/13#issuecomment-1609120497)|
 |21|2023년 7월 4일</br>오후 10시|Google Meet|:o: [Conference 발표 자료 제작](https://github.com/Team-BoonMoSa/YOLOv5/issues/13)|
-|</br>:tada:</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</br>2023년 7월 29일</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</br>TBD</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<div align="center">:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:</br>:fire: **BOAZ 18th Conference** :fire:</br>:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:</div>|
+|</br>:tada:</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</br>2023년 7월 29일</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</br>TBD</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<div align="center">:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:</br>:fire: [**BOAZ 18th Conference**](https://github.com/BOAZ-bigdata/18th_Conference_BoonMoSa) :fire:</br>:fire::fire::fire::fire::fire::fire::fire::fire::fire::fire:</div>|
 </div>
 
 <h3 align='center'>:seedling: Process :seedling:</h3>
