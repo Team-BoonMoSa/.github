@@ -1,10 +1,7 @@
 <h1 align='center'>🥸 팀 분모자 🥸</h1>
 <h3 align='center'>:camera_flash: 분류 모자이크 :camera_flash:</h3>
 
-<h4 align='center'>
-
-https://github.com/BOAZ-bigdata/18th_Conference_BoonMoSa/assets/42334717/dfd3b399-031a-46d8-aac4-b8da47535472
-</h4>
+https://github-production-user-asset-6210df.s3.amazonaws.com/42334717/256519614-dfd3b399-031a-46d8-aac4-b8da47535472.mp4
 
 <img align='center' src='https://user-images.githubusercontent.com/42334717/227575043-5c65230c-f283-46b0-a46c-0569ee20cd56.gif'/>
 
